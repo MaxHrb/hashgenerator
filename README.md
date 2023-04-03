@@ -1,10 +1,10 @@
 # hashgenerator
+##Technical Documentation
 
-Technical Documentation
-Purpose
+#Purpose
 The purpose of this Python script is to create a new XLS file with file metadata and SHA-512 hash value of an existing XLSX file. The new XLS file will have 6 columns with headers: file_name, create_date, modify_date, file_date, file_size, hash_value.
 
-Dependencies
+#Dependencies
 This script requires the following Python modules to be installed:
 
 hashlib
